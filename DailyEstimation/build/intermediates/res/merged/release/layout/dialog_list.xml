@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="20dp" >
+
+    <!-- android:background="@drawable/bottom_bg_light" -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical" >
+
+        <!-- <TextView -->
+        <!-- android:id="@+id/categoryHead" -->
+        <!-- style="@style/button_field_style" -->
+        <!-- android:layout_width="match_parent" -->
+        <!-- android:layout_height="wrap_content" -->
+        <!-- android:gravity="center" -->
+        <!-- android:text="@string/select_category" /> -->
+
+        <com.customeview.TitleTextView
+            android:id="@+id/categoryHead"
+            style="@style/button_selection_field_style"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/select_category"
+            android:textColor="@color/title_text_color" />
+
+        <ListView
+            android:id="@+id/dialogList"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginRight="0.5dp"
+            android:layout_marginTop="-3dp"
+            android:background="@color/dialog_bg"
+            android:divider="@color/text_color_gray"
+            android:dividerHeight="1dp" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,226 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mainActivity_rltroot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_bg"
+    android:scrollbars="none">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/adView"
+        android:background="@drawable/app_bg"
+        android:scrollbars="none">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/field_left_right_margin"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <com.customeview.TitleTextView
+                    style="@style/title_text_field_style"
+                    android:layout_gravity="center_vertical|center_horizontal"
+                    android:gravity="center"
+                    android:text="@string/registration_title"
+                    android:textSize="@dimen/title_text_size" />
+
+                <!-- Email Address -->
+
+                <com.customeview.NormalTextView
+                    style="@style/text_field_style"
+                    android:layout_marginLeft="@dimen/field_left_padding_small"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:text="@string/email" />
+
+                <com.customeview.NormalEditText
+                    android:id="@+id/editEmail"
+                    style="@style/edit_field_style"
+                    android:layout_marginTop="@dimen/field_gap_small"
+                    android:inputType="textEmailAddress"
+                    android:nextFocusDown="@+id/editPassword" />
+
+                <!-- Password -->
+
+                <com.customeview.NormalTextView
+                    style="@style/text_field_style"
+                    android:layout_marginLeft="@dimen/field_left_padding_small"
+                    android:layout_marginTop="@dimen/field_gap_small"
+                    android:text="@string/passwrod" />
+
+                <com.customeview.NormalEditText
+                    android:id="@+id/editPassword"
+                    style="@style/edit_field_style"
+                    android:layout_marginTop="@dimen/field_gap_small"
+                    android:inputType="textPassword"
+                    android:maxLength="12"
+                    android:nextFocusDown="@+id/editConfirmPassword" />
+
+                <!-- Confirm  Password -->
+
+                <com.customeview.NormalTextView
+                    style="@style/text_field_style"
+                    android:layout_marginLeft="@dimen/field_left_padding_small"
+                    android:layout_marginTop="@dimen/field_gap_small"
+                    android:text="@string/confirm_passwrod" />
+
+                <com.customeview.NormalEditText
+                    android:id="@+id/editConfirmPassword"
+                    style="@style/edit_field_style"
+                    android:layout_marginTop="@dimen/field_gap_small"
+                    android:inputType="textPassword"
+                    android:maxLength="12"
+                    android:nextFocusDown="@+id/editFirstName" />
+
+                <!-- first and last name -->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/field_gap_small"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+                    <!-- First Name -->
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+
+                        <com.customeview.NormalTextView
+                            style="@style/text_field_style"
+                            android:layout_marginLeft="@dimen/field_left_padding_small"
+                            android:layout_marginTop="@dimen/field_gap_small"
+                            android:text="@string/first_name" />
+
+                        <com.customeview.NormalEditText
+                            android:id="@+id/editFirstName"
+                            style="@style/edit_field_style"
+                            android:layout_marginTop="@dimen/field_gap_small"
+                            android:inputType="textCapWords"
+                            android:maxLength="30"
+                            android:nextFocusDown="@+id/editLastName" />
+                    </LinearLayout>
+
+                    <!-- Last Name -->
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/field_gap_small"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+
+                        <com.customeview.NormalTextView
+                            style="@style/text_field_style"
+                            android:layout_marginLeft="@dimen/field_left_padding_small"
+                            android:layout_marginTop="@dimen/field_gap_small"
+                            android:text="@string/last_name" />
+
+                        <com.customeview.NormalEditText
+                            android:id="@+id/editLastName"
+                            style="@style/edit_field_style"
+                            android:layout_marginTop="@dimen/field_gap_small"
+                            android:inputType="textCapWords"
+                            android:maxLength="30"
+                            android:nextFocusDown="@+id/editCompanyName" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <!-- first and last name end -->
+
+
+                <!-- Company Name -->
+
+                <com.customeview.NormalTextView
+                    style="@style/text_field_style"
+                    android:layout_marginLeft="@dimen/field_left_padding_small"
+                    android:layout_marginTop="@dimen/field_gap_small"
+                    android:text="@string/company_name" />
+
+                <com.customeview.NormalEditText
+                    android:id="@+id/editCompanyName"
+                    style="@style/edit_field_style"
+                    android:layout_marginTop="@dimen/field_gap_small"
+                    android:inputType="textCapWords"
+                    android:maxLength="30"
+                    android:nextFocusDown="@+id/editMobile" />
+
+                <!-- Company Name End -->
+
+
+                <!-- Mobile number -->
+
+                <com.customeview.NormalTextView
+                    style="@style/text_field_style"
+                    android:layout_marginLeft="@dimen/field_left_padding_small"
+                    android:layout_marginTop="@dimen/field_gap_small"
+                    android:text="@string/phone_no" />
+
+                <com.customeview.NormalEditText
+                    android:id="@+id/editMobile"
+                    style="@style/edit_field_style"
+                    android:layout_marginTop="@dimen/field_gap_small"
+                    android:inputType="phone"
+                    android:maxLength="16" />
+
+                <!-- Mobile number End -->
+
+
+                <!-- Privacy Policy -->
+
+                <com.customeview.NormalCheckbox
+                    android:id="@+id/chkPrivacyPolicy"
+                    style="@style/text_field_style"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:background="@null"
+                    android:button="@drawable/checkbox_selector"
+                    android:checked="false"
+                    android:gravity="top"
+                    android:linksClickable="true"
+                    android:paddingLeft="@dimen/field_gap_small"
+                    android:text="@string/privacy_policy"
+                    android:textColorLink="@color/white" />
+
+                <com.customeview.NormalTextView
+                    android:id="@+id/txtRegister"
+                    style="@style/button_field_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:gravity="center"
+                    android:text="@string/register" />
+
+                <ImageView
+                    android:id="@+id/fbLink"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:gravity="center"
+                    android:layout_width="80dp"
+                    android:background="@drawable/fb_bg"
+                    android:layout_height="30dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/facebook_connect" />
+
+            </LinearLayout>
+        </FrameLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id"></com.google.android.gms.ads.AdView>
+
+</RelativeLayout>

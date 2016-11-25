@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal" >
+
+        <com.customeview.NormalTextView
+            android:id="@+id/txtNoOfReceipt"
+            style="@style/text_field_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:paddingLeft="1dp"
+            android:text="No of Receipt 100"
+            android:textStyle="bold" />
+
+        <com.customeview.NormalTextView
+            android:id="@+id/txtPriceReceipt"
+            style="@style/text_field_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="1dp"
+            android:text="$50"
+            android:textStyle="bold" />
+
+        <com.customeview.NormalTextView
+            android:id="@+id/txtBuyOcr"
+            style="@style/button_field_style"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:paddingLeft="1dp"
+            android:text="BUY"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</RelativeLayout>

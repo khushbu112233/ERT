@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <com.customeview.NormalTextView
+        android:id="@+id/dummySign"
+        style="@style/text_field_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="2dp"
+        android:ellipsize="end"
+        android:gravity="top"
+        android:text="$" />
+
+    <com.customeview.NormalTextView
+        android:id="@+id/item_txtAmount"
+        style="@style/title_text_field_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginTop="2dp"
+        android:layout_toRightOf="@id/dummySign"
+        android:ellipsize="end"
+        android:paddingRight="@dimen/field_padding"
+        android:text="12" />
+
+</RelativeLayout>

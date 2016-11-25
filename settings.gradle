@@ -1,0 +1,6 @@
+include ':DailyEstimation'
+include ':tess-two'
+include ':android-support-v7-appcompat'
+include ':SlidingLeftRightMenuLibrary'
+include ':google-play-services_lib'
+include ':libraries:tess-two'

@@ -1,0 +1,435 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:2:1-166:12
+	xmlns:android
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:3:5-38
+		INJECTED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml
+		INJECTED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:5:5-30
+		INJECTED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml
+		INJECTED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:4:5-29
+		INJECTED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml
+		INJECTED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml
+uses-sdk
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+MERGED from [ReceiptTrackerApp:SlidingLeftRightMenuLibrary:unspecified] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/SlidingLeftRightMenuLibrary/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [ReceiptTrackerApp:android-support-v7-appcompat:unspecified] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/AndroidManifest.xml:20:5-43
+MERGED from [ReceiptTrackerApp:tess-two:unspecified] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/tess-two/unspecified/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.0/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.facebook.android:facebook-android-sdk:4.8.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:multidex:1.0.1] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+	android:targetSdkVersion
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:8:9-35
+uses-permission#com.android.vending.BILLING
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.INTERNET
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:14:22-65
+uses-permission#android.permission.CAMERA
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:15:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:18:22-77
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:19:5-82
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.0/AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.0/AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:19:22-79
+uses-permission#android.permission.GET_TASKS
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:20:22-65
+permission#com.aip.dailyestimation.gcm.permission.C2D_MESSAGE
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:23:9-74
+uses-permission#com.aip.dailyestimation.gcm.permission.C2D_MESSAGE
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:26:5-90
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:26:22-87
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:28:5-70
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:28:19-67
+uses-feature#android.hardware.camera.flash
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:30:9-53
+uses-feature#android.hardware.camera
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:32:5-34:35
+	android:required
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:34:9-32
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:33:9-47
+uses-feature#android.hardware.screen.landscape
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:35:5-70
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:35:19-67
+application
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:37:5-164:19
+MERGED from [ReceiptTrackerApp:android-support-v7-appcompat:unspecified] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.8.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/AndroidManifest.xml:28:5-20
+	android:label
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:41:9-41
+	android:allowBackup
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:39:9-35
+	android:icon
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:40:9-45
+	android:theme
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:42:9-40
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:38:9-66
+meta-data#com.google.android.gms.version
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:43:9-45:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:21:9-23:69
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:44:13-58
+	android:value
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:45:13-66
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:47:9-49:51
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:48:13-58
+	android:value
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:49:13-48
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:52:9-55:64
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:54:13-122
+	android:theme
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:55:13-61
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:53:13-65
+activity#com.aip.dailyestimation.view.activity.SplashActivity
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:56:9-66:20
+	android:windowSoftInputMode
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:60:13-67
+	android:screenOrientation
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:58:13-49
+	android:theme
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:59:13-44
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:57:13-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:61:13-65:29
+action#android.intent.action.MAIN
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:62:17-69
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:62:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:64:17-77
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:64:27-74
+activity#com.aip.dailyestimation.view.activity.MainActivity
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:67:9-72:79
+	android:windowSoftInputMode
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:72:13-67
+	android:screenOrientation
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:70:13-49
+	android:label
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:69:13-45
+	android:theme
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:71:13-44
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:68:13-78
+activity#com.aip.dailyestimation.view.activity.LoginActivity
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:73:9-77:79
+	android:windowSoftInputMode
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:77:13-67
+	android:screenOrientation
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:75:13-49
+	android:theme
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:76:13-44
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:74:13-56
+activity#com.aip.dailyestimation.view.activity.SignUpActivity
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:78:9-82:79
+	android:windowSoftInputMode
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:82:13-67
+	android:screenOrientation
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:80:13-49
+	android:theme
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:81:13-44
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:79:13-57
+activity#com.aip.dailyestimation.view.activity.ForgotPasswordActivity
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:83:9-87:79
+	android:windowSoftInputMode
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:87:13-67
+	android:screenOrientation
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:85:13-49
+	android:theme
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:86:13-44
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:84:13-65
+activity#com.aip.dailyestimation.view.activity.ChangePasswordActivity
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:88:9-92:79
+	android:windowSoftInputMode
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:92:13-67
+	android:screenOrientation
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:90:13-49
+	android:theme
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:89:13-65
+activity#com.ocr.CaptureActivity
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:93:9-98:72
+	android:windowSoftInputMode
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:98:13-60
+	android:screenOrientation
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:96:13-49
+	android:configChanges
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:95:13-74
+	android:theme
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:97:13-71
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:94:13-51
+activity#com.ocr.PreferencesActivity
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:99:9-102:70
+	android:windowSoftInputMode
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:102:13-67
+	android:screenOrientation
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:101:13-49
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:100:13-55
+activity#abbyy.ocrsdk.android.OcrSdkMainActivity
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:103:9-106:70
+	android:windowSoftInputMode
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:106:13-67
+	android:screenOrientation
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:105:13-49
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:104:13-67
+activity#abbyy.ocrsdk.android.ResultsActivity
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:107:9-110:79
+	android:windowSoftInputMode
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:110:13-67
+	android:screenOrientation
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:109:13-49
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:108:13-64
+activity#com.aip.dailyestimation.view.activity.ShowBIgImage
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:111:9-115:79
+	android:windowSoftInputMode
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:115:13-67
+	android:screenOrientation
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:113:13-49
+	android:theme
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:114:13-72
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:112:13-55
+activity#com.aip.dailyestimation.view.activity.ShowBIgImageNew
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:116:9-120:79
+	android:windowSoftInputMode
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:120:13-67
+	android:screenOrientation
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:118:13-49
+	android:theme
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:119:13-72
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:117:13-58
+activity#com.aip.dailyestimation.view.activity.BillingActivity
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:121:9-124:79
+	android:windowSoftInputMode
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:124:13-67
+	android:screenOrientation
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:123:13-49
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:122:13-58
+activity#com.aip.dailyestimation.view.activity.ConsumeBillingActivity
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:125:9-129:79
+	android:windowSoftInputMode
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:129:13-67
+	android:screenOrientation
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:127:13-49
+	android:theme
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:128:13-59
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:126:13-65
+service#com.aip.dailyestimation.service.ExportDataService
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:131:9-85
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:131:18-82
+service#com.aip.dailyestimation.service.SyncDataService
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:132:9-83
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:132:18-80
+activity#com.aip.dailyestimation.common.camera.Custom_CameraActivity
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:134:9-82
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:134:19-70
+service#com.aip.dailyestimation.Notification.PushNotificationService
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:137:9-143:19
+	android:exported
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:139:13-37
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:138:13-88
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:140:13-142:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:141:17-81
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:141:25-78
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:145:9-154:20
+	android:exported
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:147:13-36
+	android:permission
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:148:13-73
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:146:13-66
+intent-filter#com.aip.dailyestimation+com.google.android.c2dm.intent.RECEIVE
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:149:13-153:29
+category#com.aip.dailyestimation
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:152:17-68
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:152:27-65
+provider#com.facebook.FacebookContentProvider
+ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:156:9-159:39
+	android:exported
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:159:13-36
+	android:authorities
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:158:13-91
+	android:name
+		ADDED from /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/AndroidManifest.xml:157:13-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:20:9-22:45
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:21:19-78
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:22:19-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:7:9-11:39
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:10:13-37
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:8:13-72
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:9:13-58
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] /home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/AndroidManifest.xml:30:19-91

@@ -1,0 +1,8 @@
+---OLD---
+KeyStore Name: ReceiptTracker
+Alias: ReceiptTracker
+Password: android
+---NEW---
+KeyStore Name: ReceiptTracker
+Alias: dailyestimation
+Password: android

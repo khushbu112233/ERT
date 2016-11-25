@@ -1,0 +1,214 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mainActivity_rltroot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/adView"
+        android:scrollbars="none">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:orientation="vertical"
+                android:padding="@dimen/field_left_right_margin">
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <ProgressBar
+                        android:id="@+id/pbar"
+                        style="@android:style/Widget.ProgressBar.Small"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_gravity="center"
+                        android:visibility="invisible" />
+
+                    <ImageView
+                        android:id="@+id/imgImage"
+                        android:layout_width="130dp"
+                        android:layout_height="170dp"
+                        android:layout_gravity="center_horizontal"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/dashboard_receipt_selector" />
+
+                </FrameLayout>
+
+
+                <com.customeview.NormalTextView
+                    android:id="@+id/txtGrabbedAmt"
+                    style="@style/text_field_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="@dimen/field_left_padding_small"
+                    android:layout_marginTop="@dimen/field_gap_small" />
+
+                <com.customeview.NormalTextView
+                    style="@style/text_field_style"
+                    android:layout_marginLeft="@dimen/field_left_padding_small"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:text="@string/receipt_name" />
+
+                <!--
+                 <com.customeview.NormalEditText
+                android:id="@+id/editReceiptName"
+                style="@style/edit_field_style"
+                android:layout_marginTop="@dimen/field_gap_small"
+                android:inputType="textCapWords"
+                android:visibility="gone" />
+                -->
+
+                <com.customeview.NormalAutoCompleteEditTextView
+                    android:id="@+id/editReceiptName"
+                    style="@style/edit_field_style"
+                    android:layout_marginTop="@dimen/field_gap_small"
+                    android:imeOptions="actionNext"
+                    android:inputType="textCapWords"
+                    android:maxLength="30" />
+
+                <com.customeview.NormalTextView
+                    style="@style/text_field_style"
+                    android:layout_marginLeft="@dimen/field_left_padding_small"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:text="@string/receipt_category" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/field_gap_small"
+                    android:orientation="horizontal"
+                    android:weightSum="3">
+
+                    <com.customeview.NormalTextView
+                        android:id="@+id/txtCategory"
+                        style="@style/edit_field_style"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="2.25"
+                        android:inputType="numberDecimal"
+                        android:longClickable="false"
+                        android:maxLength="50" />
+
+                    <com.customeview.NormalTextView
+                        android:id="@+id/txtAddCategory"
+                        style="@style/button_field_style_without_height_width"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="5dp"
+                        android:layout_weight="0.75"
+                        android:gravity="center"
+                        android:text="ADD" />
+                </LinearLayout>
+
+
+                <com.customeview.NormalTextView
+                    style="@style/text_field_style"
+                    android:layout_marginLeft="@dimen/field_left_padding_small"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:text="@string/amount" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/field_gap_small"
+                    android:orientation="horizontal"
+                    android:weightSum="3">
+
+                    <com.customeview.NormalEditText
+                        android:id="@+id/txtAmount"
+                        style="@style/edit_field_style"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="2.25"
+                        android:inputType="numberDecimal"
+                        android:maxLength="10" />
+
+                    <com.customeview.NormalTextView
+                        android:id="@+id/imgTakeAmount"
+                        style="@style/button_field_style_without_height_width"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="5dp"
+                        android:layout_weight="0.75"
+                        android:gravity="center"
+                        android:text="OCR" />
+                </LinearLayout>
+
+                <com.customeview.NormalTextView
+                    style="@style/text_field_style"
+                    android:layout_marginLeft="@dimen/field_left_padding_small"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:text="@string/receipt_date" />
+
+                <com.customeview.NormalTextView
+                    android:id="@+id/txtDate"
+                    style="@style/edit_field_style"
+                    android:layout_marginTop="@dimen/field_gap_small"
+                    android:inputType="textCapWords"
+                    android:maxLength="30" />
+
+                <com.customeview.NormalTextView
+                    style="@style/text_field_style"
+                    android:layout_marginLeft="@dimen/field_left_padding_small"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:text="@string/tip" />
+
+                <com.customeview.NormalEditText
+                    android:id="@+id/editTip"
+                    style="@style/edit_field_style"
+                    android:layout_marginTop="@dimen/field_gap_small"
+                    android:inputType="numberDecimal"
+                    android:maxLength="10" />
+
+                <com.customeview.NormalTextView
+                    style="@style/text_field_style"
+                    android:layout_marginLeft="@dimen/field_left_padding_small"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:text="@string/comment" />
+
+                <com.customeview.NormalEditText
+                    android:id="@+id/editComment"
+                    style="@style/edit_multiline_field_style"
+                    android:layout_marginTop="@dimen/field_gap_small"
+                    android:gravity="top|left"
+                    android:maxLength="150"
+                    android:maxLines="5"
+                    android:minLines="2"
+                    android:singleLine="false" />
+
+                <com.customeview.NormalTextView
+                    android:id="@+id/txtAddReceipt"
+                    style="@style/button_field_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|center_horizontal"
+                    android:layout_marginBottom="@dimen/field_gap"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:gravity="center"
+                    android:text="@string/submit" />
+            </LinearLayout>
+        </FrameLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id"></com.google.android.gms.ads.AdView>
+
+</RelativeLayout>

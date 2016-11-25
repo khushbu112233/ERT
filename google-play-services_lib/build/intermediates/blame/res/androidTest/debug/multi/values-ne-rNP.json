@@ -1,0 +1,596 @@
+[
+    {
+        "outputFile": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/values-ne-rNP/values-ne-rNP.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 175,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 175,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 164,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 164,
+                        "endOffset": 441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 124,
+                    "endOffset": 566
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 124,
+                        "endOffset": 566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 571,
+                    "endColumn": 136,
+                    "endOffset": 703
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 571,
+                        "endColumn": 136,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 708,
+                    "endColumn": 171,
+                    "endOffset": 875
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 171,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 880,
+                    "endColumn": 134,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 134,
+                        "endOffset": 1010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 175,
+                    "endOffset": 1186
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1015,
+                        "endColumn": 175,
+                        "endOffset": 1186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1191,
+                    "endColumn": 138,
+                    "endOffset": 1325
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1191,
+                        "endColumn": 138,
+                        "endOffset": 1325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1330,
+                    "endColumn": 172,
+                    "endOffset": 1498
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1330,
+                        "endColumn": 172,
+                        "endOffset": 1498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1503,
+                    "endColumn": 179,
+                    "endOffset": 1678
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1503,
+                        "endColumn": 179,
+                        "endOffset": 1678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1683,
+                    "endColumn": 135,
+                    "endOffset": 1814
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1683,
+                        "endColumn": 135,
+                        "endOffset": 1814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1819,
+                    "endColumn": 172,
+                    "endOffset": 1987
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1819,
+                        "endColumn": 172,
+                        "endOffset": 1987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1992,
+                    "endColumn": 119,
+                    "endOffset": 2107
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1992,
+                        "endColumn": 119,
+                        "endOffset": 2107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2112,
+                    "endColumn": 164,
+                    "endOffset": 2272
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2112,
+                        "endColumn": 164,
+                        "endOffset": 2272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2277,
+                    "endColumn": 164,
+                    "endOffset": 2437
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2277,
+                        "endColumn": 164,
+                        "endOffset": 2437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2442,
+                    "endColumn": 120,
+                    "endOffset": 2558
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2442,
+                        "endColumn": 120,
+                        "endOffset": 2558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2563,
+                    "endColumn": 180,
+                    "endOffset": 2739
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2563,
+                        "endColumn": 180,
+                        "endOffset": 2739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2744,
+                    "endColumn": 176,
+                    "endOffset": 2916
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2744,
+                        "endColumn": 176,
+                        "endOffset": 2916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2921,
+                    "endColumn": 134,
+                    "endOffset": 3051
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2921,
+                        "endColumn": 134,
+                        "endOffset": 3051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3056,
+                    "endColumn": 175,
+                    "endOffset": 3227
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3056,
+                        "endColumn": 175,
+                        "endOffset": 3227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3232,
+                    "endColumn": 123,
+                    "endOffset": 3351
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3232,
+                        "endColumn": 123,
+                        "endOffset": 3351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3356,
+                    "endColumn": 133,
+                    "endOffset": 3485
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3356,
+                        "endColumn": 133,
+                        "endOffset": 3485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3490,
+                    "endColumn": 241,
+                    "endOffset": 3727
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3490,
+                        "endColumn": 241,
+                        "endOffset": 3727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3732,
+                    "endColumn": 123,
+                    "endOffset": 3851
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3732,
+                        "endColumn": 123,
+                        "endOffset": 3851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3856,
+                    "endColumn": 119,
+                    "endOffset": 3971
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3856,
+                        "endColumn": 119,
+                        "endOffset": 3971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3976,
+                    "endColumn": 167,
+                    "endOffset": 4139
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3976,
+                        "endColumn": 167,
+                        "endOffset": 4139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 4144,
+                    "endColumn": 138,
+                    "endOffset": 4278
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4144,
+                        "endColumn": 138,
+                        "endOffset": 4278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 4283,
+                    "endColumn": 94,
+                    "endOffset": 4373
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4283,
+                        "endColumn": 94,
+                        "endOffset": 4373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 4378,
+                    "endColumn": 101,
+                    "endOffset": 4475
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4378,
+                        "endColumn": 101,
+                        "endOffset": 4475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4480,
+                    "endColumn": 117,
+                    "endOffset": 4593
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4480,
+                        "endColumn": 117,
+                        "endOffset": 4593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4598,
+                    "endColumn": 234,
+                    "endOffset": 4828
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-ne-rNP/values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4598,
+                        "endColumn": 234,
+                        "endOffset": 4828
+                    }
+                }
+            }
+        ]
+    }
+]

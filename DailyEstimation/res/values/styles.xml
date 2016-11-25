@@ -1,0 +1,235 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="myAppTheme">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="myAppTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryColorDark</item>
+        <item name="android:windowNoTitle">true</item>
+        <!-- <item name="android:windowActionBarOverlay">true</item> -->
+        <!-- <item name="android:homeAsUpIndicator">@drawable/ic_launcher</item> -->
+        <!-- <item name="homeAsUpIndicator">@drawable/ic_launcher</item> -->
+
+
+        <!-- Support library compatibility -->
+        <!-- <item name="windowActionBarOverlay">true</item> -->
+    </style>
+
+    <style name="AppTheme.MyActionBar" parent="@style/Widget.AppCompat.ActionBar" />
+
+    <style name="actBar_title_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+    </style>
+
+    <style name="ProgressHUD" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="edit_field_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/input_box</item>
+        <item name="android:textColor">@color/field_color</item>
+        <item name="android:textSize">@dimen/field_text_size</item>
+        <item name="android:padding">@dimen/field_padding</item>
+        <item name="android:textCursorDrawable">@drawable/cursor_color</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:maxLength">50</item>
+    </style>
+
+    <style name="profile_field_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/field_title_color</item>
+        <item name="android:textSize">@dimen/field_text_size</item>
+    </style>
+
+    <style name="profile_edit_field_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/input_box</item>
+        <item name="android:textColor">@color/field_color</item>
+        <item name="android:textSize">@dimen/field_text_size</item>
+        <item name="android:padding">@dimen/field_padding</item>
+        <item name="android:textCursorDrawable">@drawable/cursor_color</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:maxLength">30</item>
+    </style>
+
+    <style name="edit_multiline_field_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/input_box</item>
+        <item name="android:textColor">@color/field_color</item>
+        <item name="android:textSize">@dimen/field_text_size</item>
+        <item name="android:padding">@dimen/field_padding</item>
+        <item name="android:textCursorDrawable">@drawable/cursor_color</item>
+        <item name="android:singleLine">false</item>
+    </style>
+
+    <!-- <item name="android:textColorHint">@color/black</item> -->
+
+    <style name="button_field_style_without_height_width">
+        <item name="android:background">@drawable/button</item>
+        <item name="android:textColor">@color/btn_text_color</item>
+        <item name="android:textSize">@dimen/field_text_size</item>
+        <item name="android:padding">@dimen/field_padding</item>
+    </style>
+
+    <style name="button_field_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/button</item>
+        <item name="android:textColor">@color/btn_text_color</item>
+        <item name="android:textSize">@dimen/field_text_size</item>
+        <item name="android:padding">@dimen/field_padding</item>
+    </style>
+
+    <style name="button_selection_field_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/drop_dwon_button_selector</item>
+        <item name="android:textColor">@color/btn_text_color</item>
+        <item name="android:textSize">@dimen/field_text_size</item>
+        <item name="android:padding">@dimen/field_padding</item>
+    </style>
+
+    <style name="text_field_style_big">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/field_title_color</item>
+        <item name="android:textSize">@dimen/field_text_size</item>
+    </style>
+
+    <style name="text_field_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/field_title_color</item>
+        <item name="android:textSize">@dimen/noraml_text_size</item>
+    </style>
+
+    <style name="text_field_style_black">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/noraml_text_size</item>
+    </style>
+
+    <style name="title_text_field_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/title_text_color</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+    </style>
+
+    <style name="white_horizontal_Line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/line_size</item>
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="orange_horizontal_Line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/line_size</item>
+        <item name="android:background">@color/app_orange</item>
+    </style>
+
+    <style name="gray_horizontal_Line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/line_size</item>
+        <item name="android:background">#99808080</item>
+    </style>
+
+    <style name="vertical_line">
+        <item name="android:layout_width">0.75dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="horizontal_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0.75dp</item>
+        <item name="android:background">@color/text_color_gray</item>
+    </style>
+
+    <style name="vertical_line_gray">
+        <item name="android:layout_width">0.75dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/text_color_gray</item>
+    </style>
+
+    <style name="text_item_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/field_title_color</item>
+        <item name="android:textSize">@dimen/noraml_text_size</item>
+    </style>
+
+    <style name="AlertDialogTheme" parent="android:Theme.Dialog">
+        <item name="android:textSize">14sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <style name="Theme.Transparent" parent="android:Theme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="Theme.Transparent1" parent="android:Theme.Dialog">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/slide_up_dialog</item>
+        <item name="android:windowExitAnimation">@anim/slide_down_dialog</item>
+    </style>
+
+    <style name="DialogSlideAnim" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/DialogAnimation</item>
+    </style>
+
+    <style name="ProgressHUD_" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="horizontal_line_white">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0.75dp</item>
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="dashboad_text_field_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/dashboard_text_color</item>
+        <item name="android:textSize">@dimen/noraml_text_size</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:drawablePadding">@dimen/field_gap_small</item>
+    </style>
+
+</resources>

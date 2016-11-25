@@ -1,0 +1,289 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mainActivity_rltroot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:scrollbars="none">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/adView"
+        android:scrollbars="none">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/field_gap"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <!-- Email Address -->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/field_gap_small"
+                    android:weightSum="5">
+
+                    <com.customeview.NormalTextView
+                        style="@style/profile_field_style"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="2"
+                        android:ems="4"
+                        android:text="@string/email" />
+
+                    <com.customeview.NormalEditText
+                        android:id="@+id/editEmail"
+                        style="@style/profile_edit_field_style"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
+                        android:enabled="false"
+                        android:inputType="textEmailAddress"
+                        android:nextFocusDown="@+id/editFirstName" />
+                </LinearLayout>
+
+                <!-- first and last name -->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/field_gap_small"
+                    android:weightSum="5">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+
+                        <!-- First Name -->
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+
+                            <com.customeview.NormalTextView
+                                style="@style/profile_field_style"
+                                android:layout_marginLeft="@dimen/field_left_padding_small"
+                                android:text="@string/first_name" />
+
+                            <com.customeview.NormalEditText
+                                android:id="@+id/editFirstName"
+                                style="@style/profile_edit_field_style"
+                                android:layout_marginTop="@dimen/field_gap_small"
+                                android:inputType="textCapWords"
+                                android:maxLength="30"
+                                android:nextFocusDown="@+id/editLastName" />
+                        </LinearLayout>
+
+                        <!-- Last Name -->
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/field_gap_small"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+
+                            <com.customeview.NormalTextView
+                                style="@style/profile_field_style"
+                                android:layout_marginLeft="@dimen/field_left_padding_small"
+                                android:text="@string/last_name" />
+
+                            <com.customeview.NormalEditText
+                                android:id="@+id/editLastName"
+                                style="@style/profile_edit_field_style"
+                                android:layout_marginTop="@dimen/field_gap_small"
+                                android:inputType="textCapWords"
+                                android:maxLength="30"
+                                android:nextFocusDown="@+id/editCompanyName" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <!-- first and last name end -->
+
+
+                <!-- Company Name -->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/field_gap_small"
+                    android:weightSum="5">
+
+                    <com.customeview.NormalTextView
+                        style="@style/profile_field_style"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="2"
+                        android:ems="4"
+                        android:text="@string/company_name" />
+
+                    <com.customeview.NormalEditText
+                        android:id="@+id/editCompanyName"
+                        style="@style/profile_edit_field_style"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
+                        android:maxLength="30"
+                        android:inputType="textCapWords"
+                        android:nextFocusDown="@+id/editMobile" />
+                </LinearLayout>
+
+                <!-- Company Name End -->
+
+
+                <!-- Mobile number -->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/field_gap_small"
+                    android:weightSum="5">
+
+                    <com.customeview.NormalTextView
+                        style="@style/profile_field_style"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="2"
+                        android:ems="4"
+                        android:text="@string/phone_no" />
+
+                    <com.customeview.NormalEditText
+                        android:id="@+id/editMobile"
+                        style="@style/profile_edit_field_style"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
+                        android:inputType="phone"
+                        android:maxLength="16" />
+                </LinearLayout>
+
+                <!-- Mobile number End -->
+
+
+                <!-- OCR -->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/field_gap_small"
+                    android:weightSum="5">
+
+                    <com.customeview.NormalTextView
+                        style="@style/profile_field_style"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="2"
+                        android:ems="4"
+                        android:text="@string/ocr" />
+
+                    <Switch
+                        android:id="@+id/OCRSwitch"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:layout_weight="3" />
+                </LinearLayout>
+
+                <!-- OCR End -->
+
+
+                <!-- User Status -->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/field_gap_small"
+                    android:weightSum="5">
+
+                    <com.customeview.NormalTextView
+                        style="@style/profile_field_style"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="2"
+                        android:ems="4"
+                        android:text="@string/user_type" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="3"
+                        android:gravity="right"
+                        android:orientation="horizontal">
+
+                        <com.customeview.NormalTextView
+                            android:id="@+id/txtUserType"
+                            style="@style/profile_field_style"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical|right"
+                            android:layout_weight="2"
+                            android:ems="4"
+                            android:gravity="right"
+                            android:text="Free User" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <!-- User Status End -->
+
+                <com.customeview.NormalTextView
+                    style="@style/profile_field_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:text="@string/msg_paid_user"
+                    android:visibility="gone" />
+
+                <com.customeview.NormalTextView
+                    android:id="@+id/txtUpdate"
+                    style="@style/button_field_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:gravity="center"
+                    android:text="@string/submit" />
+            </LinearLayout>
+        </FrameLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id"></com.google.android.gms.ads.AdView>
+
+</RelativeLayout>

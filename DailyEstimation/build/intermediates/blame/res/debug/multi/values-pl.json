@@ -1,0 +1,1204 @@
+[
+    {
+        "outputFile": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/values-pl/values-pl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 115,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 115,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 107,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 107,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endColumn": 122,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 122,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 101,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 101,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endColumn": 107,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endColumn": 107,
+                        "endOffset": 607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 85,
+                    "endOffset": 743
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 612,
+                        "endColumn": 85,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 748,
+                    "endColumn": 108,
+                    "endOffset": 852
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endColumn": 108,
+                        "endOffset": 802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 857,
+                    "endColumn": 118,
+                    "endOffset": 971
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 807,
+                        "endColumn": 118,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 976,
+                    "endColumn": 108,
+                    "endOffset": 1080
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 108,
+                        "endOffset": 1030
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1085,
+                    "endColumn": 108,
+                    "endOffset": 1189
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1035,
+                        "endColumn": 108,
+                        "endOffset": 1139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1194,
+                    "endColumn": 98,
+                    "endOffset": 1288
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1144,
+                        "endColumn": 98,
+                        "endOffset": 1238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1293,
+                    "endColumn": 108,
+                    "endOffset": 1397
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1243,
+                        "endColumn": 108,
+                        "endOffset": 1347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1402,
+                    "endColumn": 110,
+                    "endOffset": 1508
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1352,
+                        "endColumn": 110,
+                        "endOffset": 1458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1513,
+                    "endColumn": 107,
+                    "endOffset": 1616
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1463,
+                        "endColumn": 107,
+                        "endOffset": 1566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1621,
+                    "endColumn": 122,
+                    "endOffset": 1739
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1571,
+                        "endColumn": 122,
+                        "endOffset": 1689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1744,
+                    "endColumn": 115,
+                    "endOffset": 1855
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 115,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1860,
+                    "endColumn": 138,
+                    "endOffset": 1994
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 138,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1999,
+                    "endColumn": 94,
+                    "endOffset": 2089
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 425,
+                        "endColumn": 94,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2094,
+                    "endColumn": 68,
+                    "endOffset": 2158
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 520,
+                        "endColumn": 68,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2163,
+                    "endColumn": 72,
+                    "endOffset": 2231
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 72,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2236,
+                    "endColumn": 61,
+                    "endOffset": 2293
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endColumn": 61,
+                        "endOffset": 719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2298,
+                    "endColumn": 71,
+                    "endOffset": 2365
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 724,
+                        "endColumn": 71,
+                        "endOffset": 791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2370,
+                    "endColumn": 76,
+                    "endOffset": 2442
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 76,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2447,
+                    "endColumn": 97,
+                    "endOffset": 2540
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 873,
+                        "endColumn": 97,
+                        "endOffset": 966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2545,
+                    "endColumn": 77,
+                    "endOffset": 2618
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 971,
+                        "endColumn": 77,
+                        "endOffset": 1044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2623,
+                    "endColumn": 77,
+                    "endOffset": 2696
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1049,
+                        "endColumn": 77,
+                        "endOffset": 1122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2701,
+                    "endColumn": 85,
+                    "endOffset": 2782
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1127,
+                        "endColumn": 85,
+                        "endOffset": 1208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2787,
+                    "endColumn": 102,
+                    "endOffset": 2885
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1213,
+                        "endColumn": 102,
+                        "endOffset": 1311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2890,
+                    "endColumn": 64,
+                    "endOffset": 2950
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1316,
+                        "endColumn": 64,
+                        "endOffset": 1376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2955,
+                    "endColumn": 69,
+                    "endOffset": 3020
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1381,
+                        "endColumn": 69,
+                        "endOffset": 1446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3025,
+                    "endColumn": 142,
+                    "endOffset": 3163
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1451,
+                        "endColumn": 142,
+                        "endOffset": 1589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3168,
+                    "endColumn": 276,
+                    "endOffset": 3440
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 323,
+                        "endColumn": 276,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3445,
+                    "endColumn": 124,
+                    "endOffset": 3565
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 124,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3570,
+                    "endColumn": 199,
+                    "endOffset": 3765
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 199,
+                        "endOffset": 920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3770,
+                    "endColumn": 123,
+                    "endOffset": 3889
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 925,
+                        "endColumn": 123,
+                        "endOffset": 1044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3894,
+                    "endColumn": 127,
+                    "endOffset": 4017
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1049,
+                        "endColumn": 127,
+                        "endOffset": 1172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4022,
+                    "endColumn": 224,
+                    "endOffset": 4242
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1177,
+                        "endColumn": 224,
+                        "endOffset": 1397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4247,
+                    "endColumn": 224,
+                    "endOffset": 4467
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1402,
+                        "endColumn": 224,
+                        "endOffset": 1622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4472,
+                    "endColumn": 126,
+                    "endOffset": 4594
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1627,
+                        "endColumn": 126,
+                        "endOffset": 1749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4599,
+                    "endColumn": 166,
+                    "endOffset": 4761
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1754,
+                        "endColumn": 166,
+                        "endOffset": 1916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4766,
+                    "endColumn": 127,
+                    "endOffset": 4889
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1921,
+                        "endColumn": 127,
+                        "endOffset": 2044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4894,
+                    "endColumn": 168,
+                    "endOffset": 5058
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2049,
+                        "endColumn": 168,
+                        "endOffset": 2213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 5063,
+                    "endColumn": 116,
+                    "endOffset": 5175
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2218,
+                        "endColumn": 116,
+                        "endOffset": 2330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 5180,
+                    "endColumn": 127,
+                    "endOffset": 5303
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2335,
+                        "endColumn": 127,
+                        "endOffset": 2458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 5308,
+                    "endColumn": 187,
+                    "endOffset": 5491
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2463,
+                        "endColumn": 187,
+                        "endOffset": 2646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5496,
+                    "endColumn": 145,
+                    "endOffset": 5637
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2651,
+                        "endColumn": 145,
+                        "endOffset": 2792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5642,
+                    "endColumn": 178,
+                    "endOffset": 5816
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2797,
+                        "endColumn": 178,
+                        "endOffset": 2971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5821,
+                    "endColumn": 129,
+                    "endOffset": 5946
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2976,
+                        "endColumn": 129,
+                        "endOffset": 3101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5951,
+                    "endColumn": 162,
+                    "endOffset": 6109
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3106,
+                        "endColumn": 162,
+                        "endOffset": 3264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 6114,
+                    "endColumn": 121,
+                    "endOffset": 6231
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3269,
+                        "endColumn": 121,
+                        "endOffset": 3386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 6236,
+                    "endColumn": 262,
+                    "endOffset": 6494
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endColumn": 262,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 6499,
+                    "endColumn": 269,
+                    "endOffset": 6764
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3391,
+                        "endColumn": 269,
+                        "endOffset": 3656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 6769,
+                    "endColumn": 121,
+                    "endOffset": 6886
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3661,
+                        "endColumn": 121,
+                        "endOffset": 3778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 6891,
+                    "endColumn": 110,
+                    "endOffset": 6997
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3783,
+                        "endColumn": 110,
+                        "endOffset": 3889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 7002,
+                    "endColumn": 205,
+                    "endOffset": 7203
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3894,
+                        "endColumn": 205,
+                        "endOffset": 4095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 7208,
+                    "endColumn": 129,
+                    "endOffset": 7333
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4100,
+                        "endColumn": 129,
+                        "endOffset": 4225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 7338,
+                    "endColumn": 217,
+                    "endOffset": 7551
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4230,
+                        "endColumn": 217,
+                        "endOffset": 4443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 7556,
+                    "endColumn": 138,
+                    "endOffset": 7690
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4448,
+                        "endColumn": 138,
+                        "endOffset": 4582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 7695,
+                    "endColumn": 190,
+                    "endOffset": 7881
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4587,
+                        "endColumn": 190,
+                        "endOffset": 4773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 7886,
+                    "endColumn": 98,
+                    "endOffset": 7980
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4778,
+                        "endColumn": 98,
+                        "endOffset": 4872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 7985,
+                    "endColumn": 95,
+                    "endOffset": 8076
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4877,
+                        "endColumn": 95,
+                        "endOffset": 4968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 8081,
+                    "endColumn": 112,
+                    "endOffset": 8189
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 4973,
+                        "endColumn": 112,
+                        "endOffset": 5081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 8194,
+                    "endColumn": 61,
+                    "endOffset": 8251
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1726,
+                        "endColumn": 61,
+                        "endOffset": 1783
+                    }
+                }
+            }
+        ]
+    }
+]

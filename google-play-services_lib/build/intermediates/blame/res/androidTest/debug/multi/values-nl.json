@@ -1,0 +1,596 @@
+[
+    {
+        "outputFile": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/values-nl/values-nl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 179,
+                    "endOffset": 280
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 179,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 285,
+                    "endColumn": 159,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endColumn": 159,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 111,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 445,
+                        "endColumn": 111,
+                        "endOffset": 552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 129,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 557,
+                        "endColumn": 129,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 687,
+                    "endColumn": 160,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 160,
+                        "endOffset": 843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 848,
+                    "endColumn": 130,
+                    "endOffset": 974
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 848,
+                        "endColumn": 130,
+                        "endOffset": 974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 979,
+                    "endColumn": 172,
+                    "endOffset": 1147
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 979,
+                        "endColumn": 172,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1152,
+                    "endColumn": 129,
+                    "endOffset": 1277
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1152,
+                        "endColumn": 129,
+                        "endOffset": 1277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1282,
+                    "endColumn": 198,
+                    "endOffset": 1476
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1282,
+                        "endColumn": 198,
+                        "endOffset": 1476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1481,
+                    "endColumn": 197,
+                    "endOffset": 1674
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1481,
+                        "endColumn": 197,
+                        "endOffset": 1674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1679,
+                    "endColumn": 126,
+                    "endOffset": 1801
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1679,
+                        "endColumn": 126,
+                        "endOffset": 1801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1806,
+                    "endColumn": 188,
+                    "endOffset": 1990
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1806,
+                        "endColumn": 188,
+                        "endOffset": 1990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1995,
+                    "endColumn": 124,
+                    "endOffset": 2115
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1995,
+                        "endColumn": 124,
+                        "endOffset": 2115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2120,
+                    "endColumn": 164,
+                    "endOffset": 2280
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2120,
+                        "endColumn": 164,
+                        "endOffset": 2280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2285,
+                    "endColumn": 195,
+                    "endOffset": 2476
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2285,
+                        "endColumn": 195,
+                        "endOffset": 2476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2481,
+                    "endColumn": 117,
+                    "endOffset": 2594
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2481,
+                        "endColumn": 117,
+                        "endOffset": 2594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2599,
+                    "endColumn": 182,
+                    "endOffset": 2777
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2599,
+                        "endColumn": 182,
+                        "endOffset": 2777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2782,
+                    "endColumn": 174,
+                    "endOffset": 2952
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2782,
+                        "endColumn": 174,
+                        "endOffset": 2952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2957,
+                    "endColumn": 135,
+                    "endOffset": 3088
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2957,
+                        "endColumn": 135,
+                        "endOffset": 3088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3093,
+                    "endColumn": 173,
+                    "endOffset": 3262
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3093,
+                        "endColumn": 173,
+                        "endOffset": 3262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3267,
+                    "endColumn": 123,
+                    "endOffset": 3386
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3267,
+                        "endColumn": 123,
+                        "endOffset": 3386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3391,
+                    "endColumn": 143,
+                    "endOffset": 3530
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3391,
+                        "endColumn": 143,
+                        "endOffset": 3530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3535,
+                    "endColumn": 269,
+                    "endOffset": 3800
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3535,
+                        "endColumn": 269,
+                        "endOffset": 3800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3805,
+                    "endColumn": 124,
+                    "endOffset": 3925
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3805,
+                        "endColumn": 124,
+                        "endOffset": 3925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3930,
+                    "endColumn": 107,
+                    "endOffset": 4033
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3930,
+                        "endColumn": 107,
+                        "endOffset": 4033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 4038,
+                    "endColumn": 172,
+                    "endOffset": 4206
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4038,
+                        "endColumn": 172,
+                        "endOffset": 4206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 4211,
+                    "endColumn": 127,
+                    "endOffset": 4334
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4211,
+                        "endColumn": 127,
+                        "endOffset": 4334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 4339,
+                    "endColumn": 96,
+                    "endOffset": 4431
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4339,
+                        "endColumn": 96,
+                        "endOffset": 4431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 4436,
+                    "endColumn": 92,
+                    "endOffset": 4524
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4436,
+                        "endColumn": 92,
+                        "endOffset": 4524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4529,
+                    "endColumn": 108,
+                    "endOffset": 4633
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4529,
+                        "endColumn": 108,
+                        "endOffset": 4633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4638,
+                    "endColumn": 260,
+                    "endOffset": 4894
+                },
+                "from": {
+                    "file": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4638,
+                        "endColumn": 260,
+                        "endOffset": 4894
+                    }
+                }
+            }
+        ]
+    }
+]

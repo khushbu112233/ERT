@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Receipt Tracker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="facebook_id">1785182141704049</string>
+    <!-- Field text -->
+    <string name="email">Email Address</string>
+    <string name="company_name">Company Name</string>
+    <string name="passwrod">Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="cmp_name">Company Name</string>
+    <string name="phone_no">Phone Number</string>
+    <string name="confirm_passwrod">Confirm Password</string>
+    <string name="category_name">Category Name</string>
+    <string name="address_name">Address Name</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="new_confirm_password">Confirm New Password</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="ocr">OCR</string>
+    <string name="user_type">User Type</string>
+
+    <!-- Header Text -->
+    <string name="login_title">Log In</string>
+    <string name="registration_title">Sign Up</string>
+    <string name="change_pass">Change Your Password</string>
+    <string name="forgot_pass_title">Forgot Password?</string>
+
+    <!-- Button text -->
+    <string name="login">LOG IN</string>
+    <string name="register">SIGN UP</string>
+    <string name="submit">SUBMIT</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="cancel_subscribe">Cancel Subscribe</string>
+    <!-- <string name="create_category">CATEGORY</string> -->
+    <!-- <string name="create_receipt">RECEIPT</string> -->
+    <!-- <string name="add_category">ADD CATEGORY</string> -->
+    <!-- <string name="edit_category">UPDATE CATEGORY</string> -->
+    <!-- <string name="add_receipt">ADD RECEIPT</string> -->
+    <string name="edit_receipt">UPDATE RECEIPT</string>
+    <string name="change_password">CHANGE PASSWORD</string>
+    <string name="logout">LOGOUT</string>
+    <string name="filter">FILTER</string>
+    <string name="clear">RESET</string>
+    <string name="update">UPDATE</string>
+    <string name="send_mail">SEND EMAIL</string>
+    <string name="view_receipt">VIEW RECEIPT</string>
+
+    <!-- text -->
+    <string name="remember_me">Remember me</string>
+    <string name="create_new_account">Create a new account</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="no_category_found">NO CATEGORY FOUND</string>
+    <string name="no_address_found">NO ADDRESS BOOK FOUND</string>
+    <string name="no_receipt_found">NO RECEIPT FOUND</string>
+
+    <!-- Error field message -->
+    <string name="invalid_company">Please enter valid company name.</string>
+    <string name="invalid_firstname">Please enter valid first name.</string>
+    <string name="invalid_lastname">Please enter valid last name.</string>
+    <string name="invalid_phone">Please enter valid phone number.</string>
+    <string name="invalid_email">Please enter a valid email address.</string>
+    <string name="invalid_password_length">Password must be between 6 to 12 characters.</string>
+    <string name="invalid_current_password_length">Current password must be between 6 to 12 characters.</string>
+    <string name="invalid_New_password_length">New password must be between 6 to 12 characters.</string>
+    <string name="invalid_confirm_password_length">Confirm password must be between 6 to 12 characters.</string>
+    <string name="invalid_confirm_password">New password and confirm password do not match.</string>
+    <string name="invalid_confirm_password_">Password and confirm password do not match.</string>
+    <string name="insecure_password">Password must be the combination of digits and alphabets.</string>
+    <string name="invalid_category_name">Please enter a valid category name.</string>
+    <string name="invalid_address_name">Please enter a valid address name.</string>
+    <string name="invalid_amount">Please enter a valid receipt amount.</string>
+    <string name="invalid_comment">Please enter comment.</string>
+    <string name="empty_amount">Please enter a valid amount.</string>
+    <string name="invalid_tip_amount">Tip amount is invalid.</string>
+    <string name="invalid_receipt_name">Please enter a valid receipt name.</string>
+
+    <!-- Message -->
+    <string name="hint_address_name">Enter Address Name.</string>
+    <string name="hint_category_name">Enter Category Name.</string>
+    <string name="msg_internet_error">Please check your internet connection and try again.</string>
+    <string name="msg_registration">You have registered successfully.</string>
+    <string name="msg_registration_error">Oops! Registration failed please try again.</string>
+    <string name="msg_login_error">Invalid email or password.</string>
+    <string name="category_added_success">Category added successfully.</string>
+    <string name="address_added_success">Address added successfully.</string>
+    <string name="category_updated_success">Category updated successfully.</string>
+    <string name="address_updated_success">Address updated successfully.</string>
+    <string name="category_deleted_success">Category deleted successfully.</string>
+    <string name="address_deleted_success">Address deleted successfully.</string>
+    <string name="msg_category_delete">Do you want to delete \'%s\'?</string>
+    <string name="msg_address_delete">Do you want to delete \'%s\'?</string>
+    <string name="msg_receipt_delete">Do you want to delete \'%s\'?</string>
+    <string name="receipt_added_success">Receipt added successfully.</string>
+    <string name="receipt_updated_success">Receipt updated successfully.</string>
+    <string name="msg_password_invalid">Invalid current password.</string>
+    <string name="msg_password_changed">Password changed successfully.</string>
+    <string name="msg_database_error">Database error! Please try again.</string>
+    <string name="msg_logout">Do you really want to logout?</string>
+    <string name="msg_accept_policy">Please accept terms and conditions.</string>
+    <string name="msg_enter_password">Please enter current password.</string>
+    <string name="msg_update_profile">Profile updated successfully.</string>
+    <string name="msg_email_exist">Already registered with this email address. Please choose another email address.</string>
+    <string name="msg_dashboard_1">Log in to http://www.expense.solutions</string>
+    <string name="msg_dashboard_2">on your PC or Mac to run reports on your receipts for free. Use your same app login. Tip, give access to your accountant at tax time.</string>
+    <string name="msg_paid_user">Pro user : Full access, no ads, receipt images are stored for two years.</string>
+    <string name="msg_free_user">Free user : Full access, ad supported, receipt images are stored for six months.</string>
+    <string name="msg_paid_user2">Pro user : Full access, no ads, receipt images are stored for seven years.</string>
+    <string name="msg_cancel_subscription">Cancel Subscription</string>
+    <string name="msg_user_login_another_device">You have been logged out of this device because you logged into another device with the same credentials.</string>
+
+    <!-- Other -->
+    <string name="select_category">SELECT CATEGORY</string>
+
+    <!-- Receipt fields -->
+    <string name="receipt_name">Name of Receipt</string>
+    <string name="amount">Amount</string>
+    <string name="select_date">Select Date</string>
+    <string name="tip">Tip</string>
+    <string name="comment">Comment</string>
+    <string name="select_category_option">Select Category</string>
+    <string name="no_category_added">No category added. Do you want to add a new category?</string>
+    <string name="no_address_added">No address added. Do you want to add a new address?</string>
+    <string name="no_receipt_added">No receipt added. Do you want to add a new receipt?</string>
+    <string name="error_select_future_date">You can not select future date</string>
+    <string name="error_select_from_date">From date must be previous date from To date.</string>
+    <string name="no_receipt_found_small">No receipt found</string>
+    <string name="fromCamera">From Camera</string>
+    <string name="fromFile">From File</string>
+
+    <!-- filter Or Report -->
+    <string name="report_title">Report</string>
+    <string name="from_date">Select From Date</string>
+    <string name="to_date">Select To Date</string>
+    <string name="select_category_filter">Select Category</string>
+    <string name="select_amount">Enter Amount</string>
+    <string name="enter_comment">Enter Comment</string>
+    <string name="max_value_comment">Max Amount</string>
+    <string name="min_value_comment">Min Amount</string>
+
+    <!-- New -->
+    <string name="sign_up_new1"> New here?</string>
+    <string name="sign_up_new2"> Sign Up</string>
+    <string name="sign_up_new3"> New here?Sign Up</string>
+    <!--<string name="privacy_policy">Yes, I accept the Terms &amp; Conditions and the Privacy Policy.</string>-->
+    <string name="privacy_policy">Yes, I accept the <a href="http://expense.solutions/terms.html"> Terms &amp; Conditions </a> and the <a href="http://expense.solutions/privacy.html"> Privacy Policy.</a></string>
+    <string name="buy_ocr">Do you want to upgrade your account?</string>
+    <!-- <string name="buy_ocr_address">If you would like to add more than two addresses you must upgrade.</string>
+    <string name="buy_ocr_category">If you would like to add more than two categoryes you must upgrade.</string>
+    <string name="buy_ocr_receipt">If you would like to add more than ten receiptses you must upgrade.</string> -->
+
+    <!-- Banner Ad -->
+    <string name="banner_ad_unit_id">ca-app-pub-3805734982198336/9926722807</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_change_password">Change Password</string>
+    <string name="dashboard_category">Category</string>
+    <string name="dashboard_receipt">Receipt</string>
+    <string name="dashboard_profile">Profile</string>
+    <string name="dashboard_reports">Reports</string>
+    <string name="dashboard_logout">Log Out</string>
+    <string name="dashboard_camera">Taking Pics Tips</string>
+    <string name="dashboard_address">Address Book</string>
+    <string name="dashboard_subscriptions">Subscribe</string>
+    <string name="dashboard_i_time_punch">Try iTimePunch Plus</string>
+    <string name="dashboard_i_time_punch_try">Free 30 days trial</string>
+
+    <!-- user profile -->
+
+    <string name="edit">EDIT</string>
+    <string name="delete">DELETE</string>
+    <string name="splash_text">123 Easy Receipt Expense Tracker</string>
+    <string name="title_category">Category</string>
+    <string name="title_address">Address Book</string>
+    <string name="title_receipt">Receipt</string>
+    <string name="title_profile">Update User Profile</string>
+    <string name="title_add_category">Add Category</string>
+    <string name="title_add_address">Add Address Book</string>
+    <string name="title_update_category">Update Category</string>
+    <string name="title_update_address">Update Address Book</string>
+    <string name="title_add_receipt">Add Receipt</string>
+    <string name="title_update_receipt">Update Receipt</string>
+    <string name="title_report">Report</string>
+    <string name="title_camera">Taking Pics Tips</string>
+    <string name="title_view_receipt">View Receipt</string>
+    <string name="email_forgot_pass">Your registered email with us</string>
+    <string name="receipt_date">Date</string>
+    <string name="receipt_category">Category Selection</string>
+
+    <!-- Menu Text -->
+    <string name="scan">Scan Image</string>
+    <string name="add">Add Manually</string>
+    <string name="cancel">Cancel</string>
+
+    <string-array name="Select_choice">
+        <item>Scan Image</item>
+        <item>Submit Form</item>
+        <item>Cancel</item>
+    </string-array>
+
+    <!--generate pdf string -->
+    <string name="label_email">Email</string>
+    <string name="label_preview">Preview</string>
+    <string name="label_cancel">Cancel</string>
+
+</resources>

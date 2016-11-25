@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/drawable-tvdpi-v4/common_full_open_on_phone.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/google-play-services_lib/build/intermediates/bundles/debug/res/drawable-tvdpi-v4/common_full_open_on_phone.png"
+    }
+]

@@ -1,0 +1,454 @@
+[
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/top_curve.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/top_curve.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/drawable-mdpi/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/drawable-mdpi/com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/spinner_4.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/spinner_4.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/messenger_button_send_round_shadow.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/drawable-mdpi/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_bg.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/btn_bg.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/drawable-mdpi/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/drawable-mdpi/com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/spinner_1.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/spinner_1.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/spinner_10.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/spinner_10.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/top_pin_bg.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/top_pin_bg.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/spinner_9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/spinner_9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_close.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/drawable-mdpi/com_facebook_close.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/spinner_8.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/spinner_8.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/messenger_bubble_small_white.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/drawable-mdpi/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_button_like_icon_selected.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/drawable-mdpi/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/messenger_bubble_large_blue.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/drawable-mdpi/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/spinner_6.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/spinner_6.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/spinner_3.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/spinner_3.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_full_open_on_phone.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/spinner_7.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/spinner_7.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/textbox_bg_active.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/textbox_bg_active.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/spinner_2.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/spinner_2.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/drawable-mdpi/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/i_time_punch.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/i_time_punch.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/top_bar1.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/top_bar1.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_button_icon.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/drawable-mdpi/com_facebook_button_icon.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/drawable-mdpi/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/spinner_11.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/spinner_11.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/drawable-mdpi/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/drawable-mdpi/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_file_upload.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/ic_file_upload.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/spinner_5.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/spinner_5.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/checkbox.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/checkbox.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/messenger_bubble_large_white.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/drawable-mdpi/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/spn_bg.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/spn_bg.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/messenger_bubble_small_blue.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/drawable-mdpi/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_holo_light.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/spinner_0.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/spinner_0.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_button_send_icon.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/drawable-mdpi/com_facebook_button_send_icon.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_ic_googleplayservices.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/drawable-mdpi/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/drawable-mdpi/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_holo_dark.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/exploded-aar/ReceiptTrackerApp/android-support-v7-appcompat/unspecified/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/res/merged/debug/drawable-mdpi-v4/uncheckbox.png",
+        "source": "/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/res/drawable-mdpi/uncheckbox.png"
+    }
+]

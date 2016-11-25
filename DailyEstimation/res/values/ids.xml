@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="update" format="integer" type="id">0</item>
+    <item name="delete" format="integer" type="id">1</item>
+
+    <!-- fragments -->
+    <item name="dashboard_fragment" format="integer" type="id">99</item>
+    <item name="add_category_fragment" format="integer" type="id">100</item>
+    <item name="edit_category_fragment" format="integer" type="id">101</item>
+    <item name="add_receipt_fragment" format="integer" type="id">102</item>
+    <item name="edit_receipt_fragment" format="integer" type="id">103</item>
+    <item name="category_fragment" format="integer" type="id">104</item>
+    <item name="receipt_fragment" format="integer" type="id">105</item>
+    <item name="report_fragment" format="integer" type="id">106</item>
+    <item name="edit_user_profile" format="integer" type="id">107</item>
+    <item name="view_receipt_fragment" format="integer" type="id">108</item>
+    <item name="address_fragment" format="integer" type="id">109</item>
+    <item name="add_address_fragment" format="integer" type="id">110</item>
+    <item name="edit_address_fragment" format="integer" type="id">111</item>
+    <item name="camera_tip_fragment" format="integer" type="id">112</item>
+
+    <!-- OCR -->
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="ocr_continuous_decode" type="id"/>
+    <item name="ocr_continuous_decode_failed" type="id"/>
+    <item name="ocr_continuous_decode_succeeded" type="id"/>
+    <item name="ocr_decode" type="id"/>
+    <item name="ocr_decode_failed" type="id"/>
+    <item name="ocr_decode_succeeded" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+
+</resources>

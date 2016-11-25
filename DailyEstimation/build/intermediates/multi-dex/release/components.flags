@@ -1,0 +1,123 @@
+-injars '/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/transforms/jarMerging/release/jars/1/1f/combined.jar'
+-outjars '/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/multi-dex/release/componentClasses.jar'
+
+-libraryjars /home/dharmesh/AndroidSDK/sdk/build-tools/21.1.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontwarn
+-printconfiguration '/home/dharmesh/khushbu/12-11-16(ert)/ReceiptTrackerApp/DailyEstimation/build/intermediates/multi-dex/release/components.flags'
+
+
+-keep class com.aip.dailyestimation.core.MyApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class com.aip.dailyestimation.view.activity.SplashActivity {
+    <init>();
+}
+
+-keep class com.aip.dailyestimation.view.activity.MainActivity {
+    <init>();
+}
+
+-keep class com.aip.dailyestimation.view.activity.LoginActivity {
+    <init>();
+}
+
+-keep class com.aip.dailyestimation.view.activity.SignUpActivity {
+    <init>();
+}
+
+-keep class com.aip.dailyestimation.view.activity.ForgotPasswordActivity {
+    <init>();
+}
+
+-keep class com.aip.dailyestimation.view.activity.ChangePasswordActivity {
+    <init>();
+}
+
+-keep class com.ocr.CaptureActivity {
+    <init>();
+}
+
+-keep class com.ocr.PreferencesActivity {
+    <init>();
+}
+
+-keep class abbyy.ocrsdk.android.OcrSdkMainActivity {
+    <init>();
+}
+
+-keep class abbyy.ocrsdk.android.ResultsActivity {
+    <init>();
+}
+
+-keep class com.aip.dailyestimation.view.activity.ShowBIgImage {
+    <init>();
+}
+
+-keep class com.aip.dailyestimation.view.activity.ShowBIgImageNew {
+    <init>();
+}
+
+-keep class com.aip.dailyestimation.view.activity.BillingActivity {
+    <init>();
+}
+
+-keep class com.aip.dailyestimation.view.activity.ConsumeBillingActivity {
+    <init>();
+}
+
+-keep class com.aip.dailyestimation.service.ExportDataService {
+    <init>();
+}
+
+-keep class com.aip.dailyestimation.service.SyncDataService {
+    <init>();
+}
+
+-keep class com.aip.dailyestimation.common.camera.Custom_CameraActivity {
+    <init>();
+}
+
+-keep class com.aip.dailyestimation.Notification.PushNotificationService {
+    <init>();
+}
+
+-keep class com.google.android.gms.gcm.GcmReceiver {
+    <init>();
+}
+
+-keep class com.facebook.FacebookContentProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.common.api.GoogleApiActivity {
+    <init>();
+}
+
+-keep class com.google.firebase.provider.FirebaseInitProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

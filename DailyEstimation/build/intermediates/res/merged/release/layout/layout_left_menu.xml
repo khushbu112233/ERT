@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/list_background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="@dimen/list_padding"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/upload" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/drawer_txtCompanyName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:textAppearance="?android:attr/textAppearanceListItemSmall"
+                android:textColor="@color/list_item_title" />
+
+            <TextView
+                android:id="@+id/drawer_txtEmail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:textColor="@color/list_item_title" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- <View style="@style/horizontal_line_white" /> -->
+
+    <TextView
+        android:id="@+id/drawer_txtChangePassword"
+        style="@style/button_field_style"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:gravity="left"
+        android:text="@string/change_password" />
+
+    <!-- <View style="@style/horizontal_line_white" /> -->
+
+    <TextView
+        android:id="@+id/drawer_txtLogout"
+        style="@style/button_field_style"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:gravity="left"
+        android:text="@string/logout" />
+
+    <!-- <View style="@style/horizontal_line_white" /> -->
+
+</LinearLayout>

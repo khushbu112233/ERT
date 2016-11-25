@@ -1,0 +1,172 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_bg"
+    android:scrollbars="none">
+
+    <ScrollView
+        android:id="@+id/mainActivity_rltroot"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/lin"
+        android:background="@drawable/app_bg"
+        android:scrollbars="none">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:orientation="vertical"
+                android:padding="@dimen/field_left_right_margin">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_launcher" />
+
+                <com.customeview.TitleTextView
+                    style="@style/title_text_field_style"
+                    android:layout_gravity="center_vertical|center_horizontal"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:gravity="center"
+                    android:text="@string/login_title"
+                    android:textSize="@dimen/title_text_size" />
+
+                <com.customeview.NormalTextView
+                    style="@style/text_field_style"
+                    android:layout_marginLeft="@dimen/field_left_padding_small"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:text="@string/email" />
+
+                <com.customeview.NormalEditText
+                    android:id="@+id/editEmail"
+                    style="@style/edit_field_style"
+                    android:layout_marginTop="@dimen/field_gap_small"
+                    android:inputType="textEmailAddress"
+                    android:nextFocusDown="@+id/editPassword" />
+
+                <com.customeview.NormalTextView
+                    style="@style/text_field_style"
+                    android:layout_marginLeft="@dimen/field_left_padding_small"
+                    android:layout_marginTop="@dimen/field_gap_small"
+                    android:text="@string/passwrod" />
+
+                <com.customeview.NormalEditText
+                    android:id="@+id/editPassword"
+                    style="@style/edit_field_style"
+                    android:layout_marginTop="@dimen/field_gap_small"
+                    android:gravity="left"
+                    android:inputType="textPassword"
+                    android:maxLength="12" />
+
+                <com.customeview.NormalCheckbox
+                    android:id="@+id/chkRememberMe"
+                    style="@style/text_field_style"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:background="@null"
+                    android:button="@drawable/checkbox_selector"
+                    android:checked="true"
+                    android:gravity="left|center_vertical"
+                    android:paddingLeft="@dimen/field_gap_small"
+                    android:text="@string/remember_me" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <!-- <com.customeview.NormalTextView -->
+                    <!-- style="@style/text_field_style" -->
+                    <!-- android:layout_width="wrap_content" -->
+                    <!-- android:layout_height="wrap_content" -->
+                    <!-- android:layout_gravity="center" -->
+                    <!-- android:layout_marginTop="@dimen/field_gap_small" -->
+                    <!-- android:gravity="center|center_vertical" -->
+                    <!-- android:hint="@string/forgot_password" -->
+                    <!-- android:padding="@dimen/field_gap_small" /> -->
+
+                    <com.customeview.NormalTextView
+                        android:id="@+id/txtForgotPassword"
+                        style="@style/text_field_style"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/field_gap_small"
+                        android:layout_weight="1"
+                        android:gravity="left|center_vertical"
+                        android:padding="@dimen/field_gap_small"
+                        android:text="@string/forgot_password" />
+
+                    <!-- <com.customeview.NormalTextView -->
+                    <!-- style="@style/text_field_style" -->
+                    <!-- android:gravity="center" -->
+                    <!-- android:hint="@string/create_new_account" /> -->
+
+                    <com.customeview.NormalTextView
+                        android:id="@+id/txtLogin"
+                        style="@style/button_field_style"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/field_gap"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="@string/login" />
+                </LinearLayout>
+            </LinearLayout>
+        </FrameLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/lin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/adView"
+        android:orientation="vertical">
+
+        <View
+            style="@style/horizontal_line"
+            android:layout_marginTop="@dimen/field_left_right_margin" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:padding="@dimen/field_gap_small">
+
+            <com.customeview.NormalTextView
+                style="@style/text_field_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="@string/sign_up_new1"
+                android:visibility="gone" />
+
+            <com.customeview.NormalTextView
+                android:id="@+id/txtRegister"
+                style="@style/text_field_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:paddingLeft="1dp"
+                android:text="@string/sign_up_new3"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id"></com.google.android.gms.ads.AdView>
+
+</RelativeLayout>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp">
+
+    <!-- android:background="@drawable/bottom_bg_light" -->
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/adView"
+        android:layout_alignParentTop="true"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:id="@+id/lin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- <TextView -->
+            <!-- android:id="@+id/optionHead" -->
+            <!-- style="@style/button_field_style" -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:clickable="false" -->
+            <!-- android:enabled="false" -->
+            <!-- android:gravity="center" -->
+            <!-- android:focusable="false" -->
+            <!-- android:text="Filter" /> -->
+
+
+            <!-- <View style="@style/horizontal_line" /> -->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginTop="@dimen/field_gap"
+                android:orientation="horizontal">
+
+                <com.customeview.NormalTextView
+                    android:id="@+id/optionFromDate"
+                    style="@style/button_field_style"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/textbox_bg_active"
+                    android:gravity="left|center_vertical"
+                    android:hint="@string/from_date"
+                    android:maxLength="30"
+                    android:padding="@dimen/field_padding"
+                    android:singleLine="true"
+                    android:textColor="@color/field_color"
+                    android:textColorHint="@color/field_color" />
+
+                <com.customeview.NormalTextView
+                    android:id="@+id/optionToDate"
+                    style="@style/button_field_style"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/textbox_bg_active"
+                    android:gravity="left|center_vertical"
+                    android:hint="@string/to_date"
+                    android:maxLength="30"
+                    android:padding="@dimen/field_padding"
+                    android:singleLine="true"
+                    android:textColor="@color/field_color"
+                    android:textColorHint="@color/field_color" />
+            </LinearLayout>
+
+            <include
+                layout="@layout/layout_dash_line"
+                android:layout_marginTop="@dimen/field_gap" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginTop="@dimen/field_gap"
+                android:orientation="horizontal">
+
+                <com.customeview.NormalEditText
+                    android:id="@+id/optionMinValue"
+                    style="@style/button_field_style"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:layout_weight="1"
+                    android:background="@drawable/textbox_bg_active"
+                    android:gravity="left|center_vertical"
+                    android:hint="@string/min_value_comment"
+                    android:inputType="numberDecimal"
+                    android:maxLength="10"
+                    android:padding="@dimen/field_padding"
+                    android:singleLine="true"
+                    android:textColor="@color/field_color"
+                    android:textColorHint="@color/field_color" />
+
+                <com.customeview.NormalEditText
+                    android:id="@+id/optionMaxValue"
+                    style="@style/button_field_style"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/field_gap"
+                    android:layout_weight="1"
+                    android:background="@drawable/textbox_bg_active"
+                    android:gravity="left|center_vertical"
+                    android:hint="@string/max_value_comment"
+                    android:inputType="numberDecimal"
+                    android:maxLength="10"
+                    android:padding="@dimen/field_padding"
+                    android:singleLine="true"
+                    android:textColor="@color/field_color"
+                    android:textColorHint="@color/field_color" />
+            </LinearLayout>
+
+            <include
+                layout="@layout/layout_dash_line"
+                android:layout_marginTop="@dimen/field_gap" />
+
+            <com.customeview.NormalTextView
+                android:id="@+id/optionCategory"
+                style="@style/button_field_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/field_gap"
+                android:background="@drawable/textbox_bg_active"
+                android:gravity="left|center_vertical"
+                android:hint="@string/select_category_filter"
+                android:maxLength="30"
+                android:padding="@dimen/field_padding"
+                android:singleLine="true"
+                android:textColor="@color/field_color"
+                android:textColorHint="@color/field_color" />
+
+            <include
+                layout="@layout/layout_dash_line"
+                android:layout_marginTop="@dimen/field_gap"
+                android:visibility="gone" />
+
+            <com.customeview.NormalEditText
+                android:id="@+id/optionAmount"
+                style="@style/button_field_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/field_gap"
+                android:background="@drawable/textbox_bg_active"
+                android:gravity="left|center_vertical"
+                android:hint="@string/select_amount"
+                android:inputType="numberDecimal"
+                android:maxLength="10"
+                android:padding="@dimen/field_padding"
+                android:singleLine="true"
+                android:textColor="@color/field_color"
+                android:textColorHint="@color/field_color"
+                android:visibility="gone" />
+
+            <include
+                layout="@layout/layout_dash_line"
+                android:layout_marginTop="@dimen/field_gap" />
+
+            <com.customeview.NormalEditText
+                android:id="@+id/optionComment"
+                style="@style/button_field_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/field_gap"
+                android:background="@drawable/textbox_bg_active"
+                android:gravity="left|top"
+                android:hint="@string/enter_comment"
+                android:maxLength="150"
+                android:maxLines="4"
+                android:minLines="2"
+                android:padding="@dimen/field_padding"
+                android:textColor="@color/field_color"
+                android:textColorHint="@color/field_color" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="@dimen/field_gap"
+                android:orientation="horizontal">
+
+                <com.customeview.NormalTextView
+                    android:id="@+id/optionClear"
+                    style="@style/button_field_style"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/clear" />
+
+                <View
+                    android:layout_width="@dimen/field_gap"
+                    android:layout_height="1dp" />
+
+                <com.customeview.NormalTextView
+                    android:id="@+id/optionSubmit"
+                    style="@style/button_field_style"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/submit" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id"></com.google.android.gms.ads.AdView>
+
+</RelativeLayout>
